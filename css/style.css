@@ -199,3 +199,10 @@ body {
     margin-top: 10px;
     color: #f05f40;
 }
+/*-----------------------------whiskey table*/
+.whiskey-table {
+    background-color: rgb(234, 136, 136);
+}
+.whiskey-table :hover{
+    background-color: 6c757d;
+}
